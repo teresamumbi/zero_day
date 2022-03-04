@@ -1,0 +1,1 @@
+Output of the uname command run without any options in an Ubuntu VM.
